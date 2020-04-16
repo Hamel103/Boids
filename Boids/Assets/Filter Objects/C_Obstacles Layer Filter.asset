@@ -9,8 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 02f590c0ed368c8468478122a4603efb, type: 3}
-  m_Name: Stay In R15
+  m_Script: {fileID: 11500000, guid: a5f2910f653a90a4a94ad9809b817a31, type: 3}
+  m_Name: C_Obstacles Layer Filter
   m_EditorClassIdentifier: 
-  center: {x: 0, y: 0}
-  radius: 15
+  mask:
+    serializedVersion: 2
+    m_Bits: 512

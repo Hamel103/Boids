@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(menuName = "Flock/Behavior/Stay In Radius")]
-public class StayInRadiusBehavior : FlockBehavior
+public class StayInRadiusBehavior : FilteredFlockBehavior
 {
     public Vector2 center;
     public float radius = 15f;

@@ -12,3 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6572acf9c3045b40a98a73d2f6fd04a, type: 3}
   m_Name: Alignment
   m_EditorClassIdentifier: 
+  filter: {fileID: 11400000, guid: 0d92854dc964db447a53447158c9f1e2, type: 2}
